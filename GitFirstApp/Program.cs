@@ -9,6 +9,7 @@ namespace GitFirstApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("OK");
         }
     }
 }
